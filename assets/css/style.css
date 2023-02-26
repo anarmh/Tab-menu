@@ -1,0 +1,31 @@
+body{
+    background-color: gray;
+}
+
+
+.list{
+    background-color: rgb(221, 216, 216);
+    width: 100%;
+    height: 400px;
+}
+.about{
+    background-color: white;
+    width: 100%;
+    height: 400px;
+}
+.list p{
+    padding: 15px;
+    letter-spacing: 2px;
+    font-size: 20px;
+    cursor: pointer;
+}
+.list p i{
+    float: right;
+}
+.active{
+    background-color: white;
+}
+.about p{
+    font-size: 30px;
+    font-weight: 500;
+}
